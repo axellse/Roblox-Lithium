@@ -1,0 +1,423 @@
+{
+  "owner": "Bituq",
+  "name": "reshade-shaders",
+  "branch": "master",
+  "always_install": false,
+  "reset": 1682002384,
+  "shaders": [
+    {
+      "path": "Shaders/3DFX.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/3DFX.fx"
+    },
+    {
+      "path": "Shaders/ASCII.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/ASCII.fx"
+    },
+    {
+      "path": "Shaders/AdaptiveFog.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/AdaptiveFog.fx"
+    },
+    {
+      "path": "Shaders/AdaptiveSharpen.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/AdaptiveSharpen.fx"
+    },
+    {
+      "path": "Shaders/AmbientLight.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/AmbientLight.fx"
+    },
+    {
+      "path": "Shaders/AspectRatio.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/AspectRatio.fx"
+    },
+    {
+      "path": "Shaders/Bloom.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Bloom.fx"
+    },
+    {
+      "path": "Shaders/Border.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Border.fx"
+    },
+    {
+      "path": "Shaders/CRT.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/CRT.fx"
+    },
+    {
+      "path": "Shaders/Cartoon.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Cartoon.fx"
+    },
+    {
+      "path": "Shaders/Chromakey.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Chromakey.fx"
+    },
+    {
+      "path": "Shaders/ChromaticAberration.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/ChromaticAberration.fx"
+    },
+    {
+      "path": "Shaders/CinematicDOF.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/CinematicDOF.fx"
+    },
+    {
+      "path": "Shaders/Clarity.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Clarity.fx"
+    },
+    {
+      "path": "Shaders/ColorMatrix.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/ColorMatrix.fx"
+    },
+    {
+      "path": "Shaders/Colourfulness.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Colourfulness.fx"
+    },
+    {
+      "path": "Shaders/Curves.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Curves.fx"
+    },
+    {
+      "path": "Shaders/DOF.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/DOF.fx"
+    },
+    {
+      "path": "Shaders/DPX.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/DPX.fx"
+    },
+    {
+      "path": "Shaders/Daltonize.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Daltonize.fx"
+    },
+    {
+      "path": "Shaders/Deband.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Deband.fx"
+    },
+    {
+      "path": "Shaders/Denoise.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Denoise.fx"
+    },
+    {
+      "path": "Shaders/Depth3D.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Depth3D.fx"
+    },
+    {
+      "path": "Shaders/DepthHaze.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/DepthHaze.fx"
+    },
+    {
+      "path": "Shaders/DisplayDepth.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/DisplayDepth.fx"
+    },
+    {
+      "path": "Shaders/DrawText.fxh",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/DrawText.fxh"
+    },
+    {
+      "path": "Shaders/Emphasize.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Emphasize.fx"
+    },
+    {
+      "path": "Shaders/EyeAdaption.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/EyeAdaption.fx"
+    },
+    {
+      "path": "Shaders/FXAA.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/FXAA.fx"
+    },
+    {
+      "path": "Shaders/FXAA.fxh",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/FXAA.fxh"
+    },
+    {
+      "path": "Shaders/FakeHDR.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/FakeHDR.fx"
+    },
+    {
+      "path": "Shaders/FakeMotionBlur.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/FakeMotionBlur.fx"
+    },
+    {
+      "path": "Shaders/FilmGrain.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/FilmGrain.fx"
+    },
+    {
+      "path": "Shaders/FilmGrain2.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/FilmGrain2.fx"
+    },
+    {
+      "path": "Shaders/FilmicAnamorphSharpen.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/FilmicAnamorphSharpen.fx"
+    },
+    {
+      "path": "Shaders/FilmicPass.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/FilmicPass.fx"
+    },
+    {
+      "path": "Shaders/FineSharp.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/FineSharp.fx"
+    },
+    {
+      "path": "Shaders/GaussianBlur.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/GaussianBlur.fx"
+    },
+    {
+      "path": "Shaders/Glitch.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Glitch.fx"
+    },
+    {
+      "path": "Shaders/HQ4X.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/HQ4X.fx"
+    },
+    {
+      "path": "Shaders/HSLShift.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/HSLShift.fx"
+    },
+    {
+      "path": "Shaders/HighPassSharpen.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/HighPassSharpen.fx"
+    },
+    {
+      "path": "Shaders/LUT.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/LUT.fx"
+    },
+    {
+      "path": "Shaders/Layer.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Layer.fx"
+    },
+    {
+      "path": "Shaders/Levels.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Levels.fx"
+    },
+    {
+      "path": "Shaders/LevelsPlus.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/LevelsPlus.fx"
+    },
+    {
+      "path": "Shaders/LiftGammaGain.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/LiftGammaGain.fx"
+    },
+    {
+      "path": "Shaders/LightDoF.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/LightDoF.fx"
+    },
+    {
+      "path": "Shaders/LumaSharpen.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/LumaSharpen.fx"
+    },
+    {
+      "path": "Shaders/MXAO.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/MXAO.fx"
+    },
+    {
+      "path": "Shaders/Macros.fxh",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Macros.fxh"
+    },
+    {
+      "path": "Shaders/MagicBloom.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/MagicBloom.fx"
+    },
+    {
+      "path": "Shaders/Monochrome.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Monochrome.fx"
+    },
+    {
+      "path": "Shaders/MultiLUT.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/MultiLUT.fx"
+    },
+    {
+      "path": "Shaders/NightVision.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/NightVision.fx"
+    },
+    {
+      "path": "Shaders/Nostalgia.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Nostalgia.fx"
+    },
+    {
+      "path": "Shaders/PPFX_Bloom.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/PPFX_Bloom.fx"
+    },
+    {
+      "path": "Shaders/PPFX_Godrays.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/PPFX_Godrays.fx"
+    },
+    {
+      "path": "Shaders/PPFX_SSDO.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/PPFX_SSDO.fx"
+    },
+    {
+      "path": "Shaders/PerfectPerspective.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/PerfectPerspective.fx"
+    },
+    {
+      "path": "Shaders/Prism.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Prism.fx"
+    },
+    {
+      "path": "Shaders/ReShade.fxh",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/ReShade.fxh"
+    },
+    {
+      "path": "Shaders/ReShadeUI.fxh",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/ReShadeUI.fxh"
+    },
+    {
+      "path": "Shaders/ReflectiveBumpMapping.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/ReflectiveBumpMapping.fx"
+    },
+    {
+      "path": "Shaders/RimLight.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/RimLight.fx"
+    },
+    {
+      "path": "Shaders/SMAA.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/SMAA.fx"
+    },
+    {
+      "path": "Shaders/SMAA.fxh",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/SMAA.fxh"
+    },
+    {
+      "path": "Shaders/Sepia.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Sepia.fx"
+    },
+    {
+      "path": "Shaders/Splitscreen.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Splitscreen.fx"
+    },
+    {
+      "path": "Shaders/StageDepth.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/StageDepth.fx"
+    },
+    {
+      "path": "Shaders/SurfaceBlur.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/SurfaceBlur.fx"
+    },
+    {
+      "path": "Shaders/Technicolor.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Technicolor.fx"
+    },
+    {
+      "path": "Shaders/Technicolor2.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Technicolor2.fx"
+    },
+    {
+      "path": "Shaders/TiltShift.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/TiltShift.fx"
+    },
+    {
+      "path": "Shaders/Tonemap.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Tonemap.fx"
+    },
+    {
+      "path": "Shaders/TriDither.fxh",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/TriDither.fxh"
+    },
+    {
+      "path": "Shaders/UIDetect.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/UIDetect.fx"
+    },
+    {
+      "path": "Shaders/UIDetect.fxh",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/UIDetect.fxh"
+    },
+    {
+      "path": "Shaders/UIMask.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/UIMask.fx"
+    },
+    {
+      "path": "Shaders/Vibrance.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Vibrance.fx"
+    },
+    {
+      "path": "Shaders/Vignette.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Shaders/Vignette.fx"
+    }
+  ],
+  "textures": [
+    {
+      "path": "Textures/AreaTex.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/AreaTex.png"
+    },
+    {
+      "path": "Textures/Dirt.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/Dirt.png"
+    },
+    {
+      "path": "Textures/DirtA.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/DirtA.png"
+    },
+    {
+      "path": "Textures/DirtOVB.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/DirtOVB.png"
+    },
+    {
+      "path": "Textures/DirtOVR.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/DirtOVR.png"
+    },
+    {
+      "path": "Textures/FontAtlas.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/FontAtlas.png"
+    },
+    {
+      "path": "Textures/Layer.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/Layer.png"
+    },
+    {
+      "path": "Textures/LensDB.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/LensDB.png"
+    },
+    {
+      "path": "Textures/LensDB2.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/LensDB2.png"
+    },
+    {
+      "path": "Textures/LensDOV.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/LensDOV.png"
+    },
+    {
+      "path": "Textures/LensDUV.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/LensDUV.png"
+    },
+    {
+      "path": "Textures/LensSprite.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/LensSprite.png"
+    },
+    {
+      "path": "Textures/MagicBloom_Dirt.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/MagicBloom_Dirt.png"
+    },
+    {
+      "path": "Textures/MultiLut_atlas1.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/MultiLut_atlas1.png"
+    },
+    {
+      "path": "Textures/SearchTex.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/SearchTex.png"
+    },
+    {
+      "path": "Textures/Snow1.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/Snow1.png"
+    },
+    {
+      "path": "Textures/Snow2.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/Snow2.png"
+    },
+    {
+      "path": "Textures/Stage.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/Stage.png"
+    },
+    {
+      "path": "Textures/UIMask.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/UIMask.png"
+    },
+    {
+      "path": "Textures/bayer16x16.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/bayer16x16.png"
+    },
+    {
+      "path": "Textures/lut.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/lut.png"
+    },
+    {
+      "path": "Textures/ssdonoise.png",
+      "url": "https://raw.githubusercontent.com/Bituq/reshade-shaders/master/Textures/ssdonoise.png"
+    }
+  ]
+}

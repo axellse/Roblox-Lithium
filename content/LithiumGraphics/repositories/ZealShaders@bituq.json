@@ -1,0 +1,14 @@
+{
+  "owner": "bituq",
+  "name": "ZealShaders",
+  "branch": "master",
+  "always_install": false,
+  "reset": 1682002384,
+  "shaders": [
+    {
+      "path": "Shaders/AdaptiveRim.fx",
+      "url": "https://raw.githubusercontent.com/bituq/ZealShaders/master/Shaders/AdaptiveRim.fx"
+    }
+  ],
+  "textures": []
+}

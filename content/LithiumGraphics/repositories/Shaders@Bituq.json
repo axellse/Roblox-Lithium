@@ -1,0 +1,31 @@
+{
+  "owner": "Bituq",
+  "name": "Shaders",
+  "branch": "master",
+  "always_install": false,
+  "reset": 1682002384,
+  "shaders": [
+    {
+      "path": "Shaders/AreaCopy.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/Shaders/master/Shaders/AreaCopy.fx"
+    },
+    {
+      "path": "Shaders/EyeAdaption.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/Shaders/master/Shaders/EyeAdaption.fx"
+    },
+    {
+      "path": "Shaders/UIDetect.fx",
+      "url": "https://raw.githubusercontent.com/Bituq/Shaders/master/Shaders/UIDetect.fx"
+    },
+    {
+      "path": "Shaders/UIDetect.fxh",
+      "url": "https://raw.githubusercontent.com/Bituq/Shaders/master/Shaders/UIDetect.fxh"
+    }
+  ],
+  "textures": [
+    {
+      "path": "Textures/UIDetectMaskRGB.png",
+      "url": "https://raw.githubusercontent.com/Bituq/Shaders/master/Textures/UIDetectMaskRGB.png"
+    }
+  ]
+}
