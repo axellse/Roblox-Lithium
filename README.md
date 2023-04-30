@@ -1,5 +1,9 @@
 # Roblox-Lithium
+[![GitHub release](https://img.shields.io/github/release/Axelanse/Roblox-Lithium?include_prereleases=&sort=semver&color=blue)](https://github.com/Axelanse/Roblox-Lithium/releases/)
 
+[![issues - Roblox-Lithium](https://img.shields.io/github/issues/Axelanse/Roblox-Lithium)](https://github.com/Axelanse/Roblox-Lithium/issues)
+[![Axelanse - Roblox-Lithium](https://img.shields.io/static/v1?label=Axelanse&message=Roblox-Lithium&color=blue&logo=github)](https://github.com/Axelanse/Roblox-Lithium "Go to GitHub repo")
+[![stars - Roblox-Lithium](https://img.shields.io/github/stars/Axelanse/Roblox-Lithium?style=social)](https://github.com/Axelanse/Roblox-Lithium)
 ### What is lithium?
 Lithium (or roblox lithium) is a roblox modification software that aims to provide customizability as well as being allowed by the Roblox TOS.
 
