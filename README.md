@@ -15,5 +15,7 @@ Lithium is currently under development and early demo videos can be found [here]
  - Custom Cursors
  - Custom Skies 
  
- 
+ ### Shader Credits
+ None of the shaders were created by me and many of them have licenses tied to them.
+ these can be viewed in this github repository and usally appear at the top of the file.
  ![Demo of using reshade with lithium.](https://raw.githubusercontent.com/Axelanse/Roblox-Lithium/main/forest.png)
