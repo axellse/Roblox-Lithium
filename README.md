@@ -18,7 +18,8 @@ Lithium is currently under development and early demo videos can be found [here]
  - Custom Sounds
  - Custom Cursors
  - Custom Skies 
- 
+ ### About
+ If you have found a bug or need help, click [here](https://github.com/Axelanse/Roblox-Lithium/wiki/Help)
  ### Shader Credits
  None of the shaders were created by me and many of them have licenses tied to them.
  these can be viewed in this github repository and usally appear at the top of the file.
