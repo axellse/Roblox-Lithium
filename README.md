@@ -7,8 +7,8 @@
 ### What is lithium?
 Lithium (or roblox lithium) is a roblox modification software that aims to provide customizability as well as being allowed by the Roblox TOS.
 ### Installing
-You can download the latest release [here](https://github.com/Axelanse/Roblox-Lithium/releases)
-You will need .NET Framework 4.7.2 or higher (if your running windows 10 and up it will be pre installed)
+-You can download the latest release [here](https://github.com/Axelanse/Roblox-Lithium/releases)
+-You will need .NET Framework 4.7.2 or higher (if your running windows 10 and up it will be pre installed)
 ### Features:
  - Custom Bootstrapper
  - Custom Shaders (Reshade)
