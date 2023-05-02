@@ -6,8 +6,9 @@
 [![stars - Roblox-Lithium](https://img.shields.io/github/stars/Axelanse/Roblox-Lithium?style=social)](https://github.com/Axelanse/Roblox-Lithium)
 ### What is lithium?
 Lithium (or roblox lithium) is a roblox modification software that aims to provide customizability as well as being allowed by the Roblox TOS.
-
-Lithium is currently under development and early demo videos can be found [here](https://www.youtube.com/playlist?list=PLofwfdNyDlglBh1tYt1TCnuQL1tR_CDQ1)
+### Installing
+You can download the latest release [here](https://github.com/Axelanse/Roblox-Lithium/releases)
+You will need .NET Framework 4.7.2 or higher (if your running windows 10 and up it will be pre installed)
 ### Features:
  - Custom Bootstrapper
  - Custom Shaders (Reshade)
@@ -18,6 +19,7 @@ Lithium is currently under development and early demo videos can be found [here]
  - Custom Sounds
  - Custom Cursors
  - Custom Skies 
+ 
  ### About
  If you have found a bug or need help, click [here](https://github.com/Axelanse/Roblox-Lithium/wiki/Help)
  ### Shader Credits
