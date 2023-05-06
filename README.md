@@ -11,12 +11,9 @@ For some reason some antiviruses flags it mid install, which may result in error
 You will need .NET Framework 4.7.2 or higher (if your running windows 10 and up it will be pre installed)
 ### Features:
  - Custom Bootstrapper
- - Custom Shaders (Reshade)
- - Add-on Effects (Reshade)
  - Cache Viewer
  - FastFlags Modifier
  - Unlocked FPS
- - Custom Sounds
  - Custom Cursors
  - Custom Skies 
  
