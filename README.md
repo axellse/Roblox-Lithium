@@ -1,7 +1,6 @@
 # Roblox-Lithium
 [![GitHub release](https://img.shields.io/github/release/Axelanse/Roblox-Lithium?include_prereleases=&sort=semver&color=blue)](https://github.com/Axelanse/Roblox-Lithium/releases/)
-
-[![issues - Roblox-Lithium](https://img.shields.io/github/issues/Axelanse/Roblox-Lithium)](https://github.com/Axelanse/Roblox-Lithium/issues)
+[![Downloads](https://img.shields.io/github/downloads/axelanse/Roblox-Lithium/total)](https://github.com/Axelanse/Roblox-Lithium/releases/)
 [![Axelanse - Roblox-Lithium](https://img.shields.io/static/v1?label=Axelanse&message=Roblox-Lithium&color=blue&logo=github)](https://github.com/Axelanse/Roblox-Lithium "Go to GitHub repo")
 [![stars - Roblox-Lithium](https://img.shields.io/github/stars/Axelanse/Roblox-Lithium?style=social)](https://github.com/Axelanse/Roblox-Lithium)
 ### What is lithium?
